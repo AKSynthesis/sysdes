@@ -1,0 +1,3 @@
+[submodule "identity-core"]
+	path = identity-core
+	url = git@github.com:AKSynthesis/identity-core.git
